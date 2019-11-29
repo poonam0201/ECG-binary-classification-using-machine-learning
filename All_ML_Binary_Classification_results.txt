@@ -1,0 +1,109 @@
+1.Binary_Classification_NB_ML:
+
+#Precision of nb is : 0.8168991778465639
+#Recall of nb is : 0.8099305682441075
+#F1_score of nb is : 0.8131886593320892
+#Accuracy of nb is : 0.8099305682441075
+
+#                precision    recall  f1-score   
+#           0       0.89     0.88      0.88    
+#           1       0.45     0.49      0.47   
+
+
+
+
+2.Binary_Classification_SGD_ML:
+
+#Precision of sgd is : 0.8852688487171501
+#Recall of sgd is : 0.8912844874840125
+#F1_score of sgd is : 0.8793062679495356
+#Accuracy of sgd is : 0.8912844874840125
+
+#                precision    recall  f1-score   
+#           0       0.90      0.98      0.94    
+#           1       0.82      0.48      0.60     
+
+
+
+3.Binary_Classification_LR_ML:
+
+#Precision of lr is : 0.9004240654822387
+#Recall of lr is : 0.9047597295815824
+#F1_score of lr is : 0.8966202221802188
+#Accuracy of lr is : 0.9047597295815824
+
+#                precision    recall  f1-score   
+#           0       0.91     0.98      0.94    
+#           1       0.84     0.55      0.67     
+
+
+
+
+4.Binary_Classification_DBT_ML:
+
+#Precision of dbt is : 0.9582250990413085
+#Recall of dbt is : 0.9587520555454048
+#F1_score of dbt is : 0.9575515697901513
+#Accuracy of dbt is : 0.9587520555454048
+
+#                precision    recall  f1-score   
+#           0       0.96     0.99      0.98    
+#           1       0.94     0.81      0.87 
+
+
+
+
+
+5.Binary_Classification_RF_ML:
+
+#Precision of rf model is : 0.9665674036032118
+#Recall of rf model is : 0.9667001644436324
+#F1_score of rf model is : 0.9657974409948468
+#Accuracy of rf model is : 0.9667001644436324
+
+#                precision    recall  f1-score   
+#           0       0.97     0.99      0.98    
+#           1       0.96     0.84      0.90     
+
+
+
+
+6.Binary_Classification_KNN_ML:
+
+#Precision of knn is : 0.9693638143286044
+#Recall of knn is : 0.9695322492234606
+#F1_score of knn is : 0.9688258221984443
+#Accuracy of knn is : 0.9695322492234606
+
+#                precision    recall  f1-score   
+#           0       0.97      0.99      0.98    
+#           1       0.96      0.86      0.91   
+
+
+
+7.Binary_Classification_SVM_ML:
+
+#Accuracy of svm is : 0.9700803946647177
+#F1_score of svm is : 0.9691606041246514
+#Recall of svm is : 0.9700803946647177
+#Precision of svm is : 0.9703975556388739
+
+#                precision    recall  f1-score   
+
+#           0       0.97      1.00      0.98     
+#           1       0.98      0.84      0.91     
+
+
+
+All ML models comparision:
+   
+#Model                        Accuracy        Precision             Recall         F1_score
+#Naive Bayes                   0.809931         0.816899             0.809931        0.813189
+#Stochastic Gradient Descent   0.891284         0.885269             0.891284        0.879306
+#Logistic Regression           0.904760         0.900424             0.904760        0.896620
+#Decision Tree                 0.958752         0.958225             0.958752        0.957552
+#Random Forest                 0.966700         0.966567             0.966700        0.965797
+#K-Nearest Neighbors           0.969532         0.969364             0.969532        0.968826
+#Support Vector Machine        0.970080         0.970398             0.970080        0.969161
+
+ 
